@@ -1,0 +1,20 @@
+name: "John"
+addr: "beijing"
+age: 30
+status: null
+isStudent: true
+isTeacher: false
+
+
+# list
+fruits:
+    - apple
+    - banana
+    - orange
+
+# dict
+authRequest:
+    userName: "user01"
+    password: "pwd"
+
+
